@@ -1,0 +1,8 @@
+scikit-learn==1.6.1
+tensorflow>=2.15
+numpy
+matplotlib
+seaborn
+Pillow
+pillow-avif-plugin
+streamlit
