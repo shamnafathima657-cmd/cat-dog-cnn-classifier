@@ -35,6 +35,14 @@ A simple CNN with stacked Conv2D + MaxPooling layers, followed by Dense layers w
 
 Includes accuracy/loss curves across training epochs and a confusion matrix + classification report (precision, recall, F1-score) on the test set.
 
+## streamlit application
+
+#### locally run :
+streamlit run cdapp.py
+
+#### cloud deployement:
+https://cat-dog-cnn-classifier-vsqbudwaqptewmsulahfbm.streamlit.app/
+
 ##  Technology used
 
 - Python, TensorFlow / Keras
